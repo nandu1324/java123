@@ -1,7 +1,8 @@
-class Hello
+class 
 {
    public static void main(String args[])
 {
    System.out.print("Nandini");
+   System.out.print("Nandu");
 }
 }
